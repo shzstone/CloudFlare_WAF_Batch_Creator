@@ -4,9 +4,7 @@
 [![Cloudflare](https://img.shields.io/badge/Provider-Cloudflare-orange)](https://www.cloudflare.com/)
 
 这是一款面向中大型站长、运维人员设计的 Cloudflare WAF 规则批量管理工具。通过智能算法优化 API 请求，支持数百个域名的一键同步与防御部署。
-<div style="text-align: left;">
-  <img src="https://github.com/user-attachments/assets/f5767086-9d39-485a-ab89-99ee41f7bede" alt="WP 一键备份还原" width="60%">
-</div>
+
 ---
 
 ## ✨ v1.0 核心突破
@@ -52,7 +50,9 @@ python -m nuitka --standalone --onefile --windows-disable-console --plugin-enabl
 4. **一键部署**：点击“开始部署”，实时监控带时间戳的详细日志。
 
 ---
-
+<div style="text-align: left;">
+  <img src="https://github.com/user-attachments/assets/f5767086-9d39-485a-ab89-99ee41f7bede" alt="WP 一键备份还原" width="60%">
+</div>
 ## 📄 许可证
 GPL v2 or later
 
