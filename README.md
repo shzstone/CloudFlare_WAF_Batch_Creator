@@ -50,12 +50,14 @@ python -m nuitka --standalone --onefile --windows-disable-console --plugin-enabl
 4. **一键部署**：点击“开始部署”，实时监控带时间戳的详细日志。
 
 ---
+<div style="text-align: left;">
+  <img src="https://github.com/user-attachments/assets/f5767086-9d39-485a-ab89-99ee41f7bede" alt="WP 一键备份还原" width="40%">
+</div>
+---
 
 ## 📄 许可证
 GPL v2 or later
 
 ---
 **Developed by Stone** | 打造 WordPress + Cloudflare 的最强运维护城河。
-<div style="text-align: left;">
-  <img src="https://github.com/user-attachments/assets/f5767086-9d39-485a-ab89-99ee41f7bede" alt="WP 一键备份还原" width="60%">
-</div>
+
